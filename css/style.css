@@ -1,0 +1,99 @@
+table{
+    table-layout: auto;
+    border-collapse: collapse;
+    border: 1px solid black;
+} 
+
+    .tablerow{
+        background-color: rgb(138, 129, 192);                
+    }
+
+    .tablerow2{
+        background: violet;
+        color: white;
+    }
+
+    .tabledata4{
+        background-color:gold;
+        font-size: 20px;
+    }
+
+    .tablerow6{
+        background-color: gray;
+        color:whitesmoke;
+    }
+
+    .tablerow9{
+        color: maroon;
+        font-size: 18px;
+    }
+
+    .tablerow12{
+        background-color: springgreen;
+        color:blue;
+    }
+
+    .tablerow14{
+        background-color: chartreuse;
+        font-size: 15px;
+    }
+
+    .tablerow15{
+        background-color: darkorange;
+        color: white;
+    }
+
+    .tablerow17{
+        
+        background-color: blue;
+        color: white;
+    }
+
+    .row18{
+        background-color: tomato;
+        color: white;
+    }
+
+    .row22{
+        background-color: rgb(138, 129, 192);
+        color: rgb(255, 255, 255);
+    }
+
+    .row24{
+        background-color: peru;
+    }
+
+    .row25{
+        background-color: rgb(219, 59, 214);
+        font-size: 18;
+        color: white;
+    }
+
+    .row28{
+        background-color: yellowgreen;
+    }
+
+    .row30{
+        background-color: blueviolet;
+        color: white;
+    }
+
+    .row31{
+        background-color: rgb(230, 196, 62);
+    }
+
+    .row32{
+        background-color: brown;
+        color: white;
+    }
+
+    .row34{
+        background-color: cyan;
+    }
+
+    .detail{
+        background-color: darkgoldenrod;
+        text-transform: capitalize;
+        color: black;
+        text-align: center;
+    }
